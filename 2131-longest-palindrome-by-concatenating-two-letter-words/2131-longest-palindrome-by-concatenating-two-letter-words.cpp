@@ -13,6 +13,8 @@ public:
             reverse(s.begin(), s.end());
             if (p==s) {
                 res += (it->second/2) * 4;
+                it->second=it->second%2;
+
             }
             auto found = m.find(s);
 
@@ -25,6 +27,10 @@ public:
             } else {
                 ++it;
             }
+        }
+         for (auto x : m) {
+            cout<<x.second<<"===="<<x.first<<endl;
+           
         }
         for (auto x : m) {
             if ((x.second > 0) && (x.first[0] == x.first[1])) {
