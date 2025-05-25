@@ -3,7 +3,7 @@ public:
     int longestPalindrome(vector<string>& words) {
         int n = words.size();
         int res = 0;
-        map<string, int> m;
+        unordered_map<string, int> m;
         for (int i = 0; i < n; i++) {
             m[words[i]]++;
         }
