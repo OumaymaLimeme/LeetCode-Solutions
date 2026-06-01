@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
