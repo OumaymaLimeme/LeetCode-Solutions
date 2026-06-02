@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/1148-article-views-i/) | Easy |
+| [1280-students-and-examinations](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/1683-invalid-tweets/) | Easy |
