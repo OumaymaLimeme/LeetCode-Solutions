@@ -1,11 +1,8 @@
-SELECT 
-    CASE 
-        WHEN COUNT(DISTINCT salary) < 2 THEN NULL
-        ELSE (
-            SELECT DISTINCT salary
-            FROM Employee
-            ORDER BY salary DESC
-            LIMIT 1 OFFSET 1
-        )
-    END AS SecondHighestSalary
-FROM Employee;
+select 
+case
+ when count(DISTINCT salary) < 2 then  NULL 
+else (select DISTINCT salary  from Employee 
+ORDER BY salary DESC
+LIMIT 1 OFFSET 1)
+END as SecondHighestSalary
+from Employee 
