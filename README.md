@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1089-duplicate-zeros](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [1089-duplicate-zeros](https://github.com/OumaymaLimeme/LeetCode-Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
